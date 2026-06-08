@@ -252,6 +252,9 @@ python src/train_model.py
 ```bash
 python src/predict.py
 ```
+# Streamlit App Screenshot
+
+![Streamlit App Screenshot] (images/streamlit_app.png)
 
 ## Result
 
