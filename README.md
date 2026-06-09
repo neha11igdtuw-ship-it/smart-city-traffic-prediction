@@ -254,7 +254,7 @@ python src/predict.py
 ```
 # Streamlit App Screenshot
 
-![Streamlit App Screenshot] (images/streamlit_app.png)
+![Streamlit App Screenshot](images/streamlit_app.png)
 
 ## Result
 
